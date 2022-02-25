@@ -12,7 +12,7 @@
 
 ## Results
 
-kinetics400 official raw format完成的格式，具体见kinetics400 official raw format的READM.md
+kinetics400 official raw format完成的格式
 
 kinetics400的json格式:
 
@@ -40,7 +40,7 @@ kinetics400的csv格式:
 
 
 
-kinetics400 model data type完成的格式，具体见kinetics400 model data type的[READM.md](kinetics400_model_data_type/README.md)]
+kinetics400 model data type完成的格式
 
 ```
 |-- data
